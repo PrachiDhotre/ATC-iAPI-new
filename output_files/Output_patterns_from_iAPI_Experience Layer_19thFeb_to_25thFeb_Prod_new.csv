@@ -1,0 +1,4 @@
+Well_defined_Errors_Exceptions,Patterns_from_msgs_with_tags,Patterns_from_short_msgs_without_tags,Patterns_from_long_msgs_without_tags_using_RAKE
+LoggingError,,Get User operation failed,
+,,Get Subscription operation failed,
+,,Fetch Optima SSO token operation failed,

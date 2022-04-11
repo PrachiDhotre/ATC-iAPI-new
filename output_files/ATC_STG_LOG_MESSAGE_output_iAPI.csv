@@ -1,0 +1,29 @@
+APPLICATION,LOGZIO_PROJECT,ENVIRONMENT,message,PATTERN,LOG_MESSAGE_TIMESTAMP,TARGET_SYSTEM,TARGET_URI
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"2022-03-25 10:37:49.140 ERROR 1 --- [   scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+",LoggingError,2022-03-25T10:37:49.140+00:00,iAPI,class_name_method_name
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"2022-03-25 11:27:49.144 ERROR 1 --- [   scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+",LoggingError,2022-03-25T11:27:49.144+00:00,iAPI,class_name_method_name
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"2022-03-25 12:17:49.146 ERROR 1 --- [   scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+",LoggingError,2022-03-25T12:17:49.147+00:00,iAPI,class_name_method_name
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"2022-03-25 13:07:49.150 ERROR 1 --- [   scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+",LoggingError,2022-03-25T13:07:49.150+00:00,iAPI,class_name_method_name
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"2022-03-25 13:57:49.152 ERROR 1 --- [   scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+",LoggingError,2022-03-25T13:57:49.152+00:00,iAPI,class_name_method_name
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"2022-03-25 15:37:49.157 ERROR 1 --- [   scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+",LoggingError,2022-03-25T15:37:49.158+00:00,iAPI,class_name_method_name
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"2022-03-25 14:47:49.155 ERROR 1 --- [   scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+",LoggingError,2022-03-25T14:47:49.155+00:00,iAPI,class_name_method_name
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"2022-03-25 10:37:49.139 ERROR 1 --- [   scheduling-1] c.d.w.r.o.a.m.service.AccessMgmtService  : Fetch Optima SSO token operation failed
+",Fetch Optima SSO token operation failed,2022-03-25T10:37:49.139+00:00,iAPI,class_name_method_name
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"2022-03-25 11:27:49.142 ERROR 1 --- [   scheduling-1] c.d.w.r.o.a.m.service.AccessMgmtService  : Fetch Optima SSO token operation failed
+",Fetch Optima SSO token operation failed,2022-03-25T11:27:49.143+00:00,iAPI,class_name_method_name
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"2022-03-25 12:17:49.146 ERROR 1 --- [   scheduling-1] c.d.w.r.o.a.m.service.AccessMgmtService  : Fetch Optima SSO token operation failed
+",Fetch Optima SSO token operation failed,2022-03-25T12:17:49.146+00:00,iAPI,class_name_method_name
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"2022-03-25 13:07:49.149 ERROR 1 --- [   scheduling-1] c.d.w.r.o.a.m.service.AccessMgmtService  : Fetch Optima SSO token operation failed
+",Fetch Optima SSO token operation failed,2022-03-25T13:07:49.149+00:00,iAPI,class_name_method_name
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"2022-03-25 13:57:49.151 ERROR 1 --- [   scheduling-1] c.d.w.r.o.a.m.service.AccessMgmtService  : Fetch Optima SSO token operation failed
+",Fetch Optima SSO token operation failed,2022-03-25T13:57:49.152+00:00,iAPI,class_name_method_name
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"2022-03-25 15:37:49.157 ERROR 1 --- [   scheduling-1] c.d.w.r.o.a.m.service.AccessMgmtService  : Fetch Optima SSO token operation failed
+",Fetch Optima SSO token operation failed,2022-03-25T15:37:49.157+00:00,iAPI,class_name_method_name
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"2022-03-25 14:47:49.154 ERROR 1 --- [   scheduling-1] c.d.w.r.o.a.m.service.AccessMgmtService  : Fetch Optima SSO token operation failed
+",Fetch Optima SSO token operation failed,2022-03-25T14:47:49.154+00:00,iAPI,class_name_method_name

@@ -1,0 +1,7 @@
+Well_defined_Errors_Exceptions,Patterns_from_msgs_with_tags,Patterns_from_short_msgs_without_tags,Patterns_from_long_msgs_without_tags_using_RAKE
+NullPointerException,Get Subscriber Error 1000 testing ,Testing message Sample pattern,create subscriber error device
+OMError,Get Subscription & Device Error 404  ,,new pattern extraction using rake
+,Get Subscription & Device Error 500  ,,profile origin class path resource application
+,Get subscription usage exception message 404  ,,
+,Get Subscriber Error 500  ,,
+,Create Subscriber Error 409  ,,

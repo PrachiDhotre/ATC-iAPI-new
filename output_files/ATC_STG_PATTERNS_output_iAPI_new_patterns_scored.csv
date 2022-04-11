@@ -1,0 +1,5 @@
+APPLICATION,LOGZIO_PROJECT,ENVIRONMENT,PATTERN,STATUS,IMPACT,URGENCY,PRIORITY
+iAPI,Wireless Revenue Management Prod,PRODUCTION,NullPointerException,PENDING FOR REVIEW,3,3,5
+iAPI,Wireless Revenue Management Prod,PRODUCTION,Get Subscriber Error 1000 testing,PENDING FOR REVIEW,3,3,5
+iAPI,Wireless Revenue Management Prod,PRODUCTION,"Testing message Sample pattern\n""",PENDING FOR REVIEW,3,3,5
+iAPI,Wireless Revenue Management Prod,PRODUCTION,new pattern extraction using rake,PENDING FOR REVIEW,3,3,5
